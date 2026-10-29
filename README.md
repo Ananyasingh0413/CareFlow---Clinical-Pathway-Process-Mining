@@ -73,3 +73,15 @@ The Python pipeline audit verified:
 ## Conclusion
 CareFlow demonstrates how Python, pandas, and PM4Py can be used to validate hospital event logs, discover patient pathways, and analyze patient waiting times.
 
+## Patient Pathway Conformance Audit
+A rule-based audit was run on the 500 patient cases to check:
+- Whether each pathway starts with Registration
+- Whether Triage occurs before Doctor_Consultation
+- Whether the final activity is Discharge or Admission
+- Whether timestamps are chronological within each case
+- Whether consecutive duplicate activities occur
+
+**Result:** All 500 cases passed all five checks; no cases were flagged for review. The detailed case-level results are in `careflow_conformance_audit.csv`.
+
+This is a rule-based validation audit, not a formal PM4Py model-conformance measurement.
+
