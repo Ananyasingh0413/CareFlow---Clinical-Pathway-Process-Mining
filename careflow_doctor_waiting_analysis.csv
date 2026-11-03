@@ -1,0 +1,9 @@
+Doctor_ID,Total_Patients,Average_Waiting_Minutes,Median_Waiting_Minutes,Maximum_Waiting_Minutes,Patients_Above_30_Min
+D01,60,28.17,26.0,63.0,21
+D02,66,30.92,28.5,102.0,31
+D03,57,31.79,32.0,91.0,31
+D04,63,32.29,29.0,87.0,31
+D05,62,32.34,30.5,95.0,31
+D06,58,31.97,29.0,66.0,27
+D11,64,31.11,29.0,81.0,28
+D12,70,31.13,30.0,81.0,33
