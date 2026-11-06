@@ -85,3 +85,7 @@ A rule-based audit was run on the 500 patient cases to check:
 
 This is a rule-based validation audit, not a formal PM4Py model-conformance measurement.
 
+## Power BI Dashboard
+
+The CareFlow dashboard provides interactive visualizations for patient outcomes, waiting time distribution, activity-wise delays, and hospital bottleneck analysis. Department and activity slicers help users explore the available data.
+
