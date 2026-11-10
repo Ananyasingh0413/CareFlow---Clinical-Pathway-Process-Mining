@@ -1,0 +1,6 @@
+Metric,Value
+Admission events,74.0
+Average gap (minutes),50.51
+Median gap (minutes),33.0
+Maximum gap (minutes),162.0
+Gaps above 60 minutes,19.0

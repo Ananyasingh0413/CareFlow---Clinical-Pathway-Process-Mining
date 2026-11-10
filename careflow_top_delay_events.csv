@@ -1,0 +1,11 @@
+Case_ID,Previous_Activity,Activity_Name,Gap_Minutes_From_Previous_Activity,Doctor_ID,Department
+P0107,Laboratory,Admission,162.0,,Emergency
+P0397,Doctor_Consultation,Admission,153.0,,Emergency
+P0294,Doctor_Review,Admission,144.0,,Emergency
+P0386,Doctor_Review,Admission,143.0,,Emergency
+P0417,Doctor_Consultation,Admission,136.0,,Emergency
+P0234,Doctor_Review,Admission,126.0,,Emergency
+P0248,Doctor_Review,Admission,119.0,,Emergency
+P0423,Doctor_Review,Admission,117.0,,Emergency
+P0410,Doctor_Review,Admission,115.0,,Emergency
+P0421,Laboratory,Admission,108.0,,Emergency
