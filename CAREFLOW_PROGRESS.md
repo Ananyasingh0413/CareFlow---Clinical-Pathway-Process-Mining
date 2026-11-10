@@ -22,3 +22,5 @@
 
 Power BI dashboard development is in progress.
 
+ 
+10 November 2026 - Reviewed dashboard interactivity and planned cross-filtering, slicers, drill-through and navigation improvements. 
